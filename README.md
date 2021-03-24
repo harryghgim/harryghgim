@@ -13,4 +13,4 @@
 <!-- Stats will be available from April -->
 <!-- [![Wakatime stats](https://github-readme-stats-harryghgim.vercel.app/api/wakatime?username=harryghgim)](https://github.com/anuraghazra/github-readme-stats) -->
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=harryghgim.visitor-badge)
+ <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=harryghgim.visitor-badge) -->
